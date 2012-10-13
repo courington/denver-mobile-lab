@@ -1,0 +1,2 @@
+class PartyTimeAppsController < ApplicationController
+end

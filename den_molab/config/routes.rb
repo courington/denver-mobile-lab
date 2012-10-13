@@ -1,5 +1,11 @@
 DenMolab::Application.routes.draw do
 
+  resources :parties
+
+  resources :party_time_apps
+
+  resources :denmos
+
   root to: 'static_pages#home'
   
   # The priority is based upon order of creation:

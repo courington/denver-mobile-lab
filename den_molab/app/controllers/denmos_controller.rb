@@ -1,0 +1,2 @@
+class DenmosController < ApplicationController
+end

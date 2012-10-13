@@ -1,0 +1,2 @@
+module PartyTimeAppsHelper
+end
