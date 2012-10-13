@@ -1,0 +1,1 @@
+class window.den_molab.denmo extends Backbone.Model
